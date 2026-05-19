@@ -2,6 +2,8 @@
 
 An Agent Skill for Claude. Office hours methodology for a non-technical founder paired with a technical co-founder, building a tech startup in the AI-native era of 2026.
 
+**📦 [Download the latest skill bundle (.zip)](https://github.com/adoistic/non-tech-office-hours/releases/latest/download/non-tech-office-hours.zip)** — unzip into `~/.claude/skills/` (Claude Code / Desktop) or upload the `.md` files to a Project (Claude.ai web).
+
 Pushes hard on specificity, behavioral evidence, and strategic coherence (Roger Martin's Playing-to-Win framework). Calibrates to AI-native production economics (software factories, token-maxing, closed-loop ops). Refuses to drift into technology choices — those belong to the technical co-founder, in their own session.
 
 ## What you get out of a session
