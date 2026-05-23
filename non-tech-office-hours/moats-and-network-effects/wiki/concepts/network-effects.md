@@ -5,7 +5,7 @@
 
 ## Definition
 
-A network effect exists when each additional user makes the product more valuable for every existing user. More users → more value per user. This is a structural property of the business, not a growth strategy.
+A network effect exists when each additional user makes the product more valuable for every existing user. More users → more value per user. This is a structural property of the business, not a growth strategy. Helmer's "network economies" names the same phenomenon — see [[network-economies]].
 
 ## Mechanism
 
