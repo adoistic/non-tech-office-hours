@@ -5,7 +5,7 @@
 
 ## Definition
 
-A language network effect forms when a brand, product name, or category term enters common speech as the default word for an action or concept. When a verb (to google, to xerox, to uber) or category name becomes synonymous with a product, every new speaker of that language who uses the word reinforces the product's primacy — for free, continuously, and in every conversation that touches the category.
+A language network effect forms when a brand, product name, or category term enters common speech as the default word for an action or concept. When a verb (to google, to xerox, to uber) or category name becomes synonymous with a product, every new speaker of that language who uses the word reinforces the product's primacy, for free, continuously, and in every conversation that touches the category.
 
 ## Mechanism
 
@@ -15,9 +15,9 @@ A language network effect forms when a brand, product name, or category term ent
 
 ## When it applies
 
-- Your product or category name is short, memorable, and verb-friendly — it describes an action, not just a noun.
+- Your product or category name is short, memorable, and verb-friendly: it describes an action, not just a noun.
 - You are the plurality or majority leader in an emerging category where the category name is not yet standardized.
-- Your brand is used in speech by people who are not your users — journalists, parents, non-adopters — widening the language network beyond your customer base.
+- Your brand is used in speech by people who are not your users (journalists, parents, non-adopters), widening the language network beyond your customer base.
 
 ## Kill-test
 

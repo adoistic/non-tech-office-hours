@@ -5,7 +5,7 @@
 
 ## Definition
 
-A bandwagon network effect forms when social pressure to join a network — specifically the fear of being left out or seen as outside a desirable group — drives adoption. The product's value includes not just its utility but the social signal of belonging to the group that uses it. Adoption accelerates because each new user makes non-adoption more socially costly for the holdouts.
+A bandwagon network effect forms when social pressure to join a network (specifically the fear of being left out or seen as outside a desirable group) drives adoption. The product's value includes not just its utility but the social signal of belonging to the group that uses it. Adoption accelerates because each new user makes non-adoption more socially costly for the holdouts.
 
 ## Mechanism
 

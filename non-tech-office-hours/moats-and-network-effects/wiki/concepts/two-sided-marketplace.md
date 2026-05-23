@@ -5,12 +5,12 @@
 
 ## Definition
 
-A two-sided marketplace connects buyers and sellers through a platform that serves as intermediary. Each additional seller increases value for buyers (more choice, better prices); each additional buyer increases value for sellers (more demand). The network — not the app's features — provides the majority of the value. This cross-side reinforcement makes successful marketplaces extremely difficult to disrupt because you must offer a better deal to both sides simultaneously.
+A two-sided marketplace connects buyers and sellers through a platform that serves as intermediary. Each additional seller increases value for buyers (more choice, better prices); each additional buyer increases value for sellers (more demand). The network, not the app's features, provides the majority of the value. This cross-side reinforcement makes successful marketplaces extremely difficult to disrupt because you must offer a better deal to both sides simultaneously.
 
 ## Mechanism
 
 - Cross-side effect: more sellers attract more buyers attract more sellers, compounding with each cycle.
-- Same-side competition is usually negative — more sellers compete with each other — but the indirect benefit of attracting more buyers typically outweighs this cost, keeping sellers on the platform.
+- Same-side competition is usually negative: more sellers compete with each other. But the indirect benefit of attracting more buyers typically outweighs this cost, keeping sellers on the platform.
 - Multi-tenanting (sellers listing on multiple platforms simultaneously) is the primary structural weakness; lock-in must come from tools, reputation, or liquidity that competitors cannot match.
 
 ## When it applies
@@ -21,7 +21,7 @@ A two-sided marketplace connects buyers and sellers through a platform that serv
 
 ## Kill-test
 
-Pull cohort data for buyers who joined in months when seller supply was low versus high. If buyer retention rates are indistinguishable across those cohorts, buyers are returning for price, habit, or trust — not because the network grew. You do not have evidence of a marketplace network effect without that retention differential.
+Pull cohort data for buyers who joined in months when seller supply was low versus high. If buyer retention rates are indistinguishable across those cohorts, buyers are returning for price, habit, or trust. They are not returning because the network grew. You do not have evidence of a marketplace network effect without that retention differential.
 
 ## AI-native erosion check
 

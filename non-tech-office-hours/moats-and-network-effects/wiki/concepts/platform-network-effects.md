@@ -5,17 +5,17 @@
 
 ## Definition
 
-A platform network effect is a two-sided effect where the supply side (developers, game studios) engineers products that exist only because of and within the platform. Supply-side contributors must integrate deeply to participate — they are not merely listing inventory, they are building assets that are a function of the platform itself. This deep integration makes both sides more expensive to leave than in a standard marketplace.
+A platform network effect is a two-sided effect where the supply side (developers, game studios) engineers products that exist only because of and within the platform. Supply-side contributors must integrate deeply to participate: they are not merely listing inventory, they are building assets that are a function of the platform itself. This deep integration makes both sides more expensive to leave than in a standard marketplace.
 
 ## Mechanism
 
-- More developers build on the platform; more apps or games increase value for users; more users attract more developers — a cross-side flywheel.
+- More developers build on the platform; more apps or games increase value for users; more users attract more developers. This is a cross-side flywheel.
 - Developer investment (porting, API integration, certification) creates sunk costs that discourage multi-tenanting more effectively than marketplace listings where the same item ships anywhere.
 - The platform's own features (hardware, SDK, performance) add direct value independent of the network, making the product defensible even before the network effect is fully formed.
 
 ## When it applies
 
-- Third-party developers must build a distinct version of their product for your platform — porting is non-trivial.
+- Third-party developers must build a distinct version of their product for your platform. Porting is non-trivial.
 - Your platform controls critical distribution (app store, console shelf, OS runtime) so developers cannot reach your users without going through you.
 - User switching cost includes losing access to platform-specific apps, saves, achievements, or integrations, not just a new login.
 

@@ -5,7 +5,7 @@
 
 ## Definition
 
-A data network effect exists when a product becomes more valuable as more users generate more useful data, and when that improved product in turn attracts more users. Usage feeds data; data feeds product quality; quality feeds usage. Most products collect data, but few have genuine data network effects — the data must be central to the product's value delivery, and usage must be the primary driver of new data collection.
+A data network effect exists when a product becomes more valuable as more users generate more useful data, and when that improved product in turn attracts more users. Usage feeds data; data feeds product quality; quality feeds usage. Most products collect data, but few have genuine data network effects: the data must be central to the product's value delivery, and usage must be the primary driver of new data collection.
 
 ## Mechanism
 
@@ -25,7 +25,7 @@ Does each new data point measurably improve the product for existing users? Not 
 
 ## AI-native erosion check
 
-Foundation models trained on internet-scale data partly commoditize proprietary datasets, because general-purpose reasoning can substitute for narrow behavioral data in some use cases. However, real-time, domain-specific, or behavioral data that does not exist in public training sets remains a genuine advantage. The moat narrows for historical or static datasets and holds for continuously-updated, usage-generated behavioral signal.
+Of all the moat types in this wiki, data network effects survive the AI era best. Code-as-moat has collapsed; engineering-speed-as-moat has collapsed; but accumulated behavioral data feeding a continuously-updated model remains the single hardest moat for a 1,000x-engineer competitor to replicate. Foundation models trained on internet-scale data partly commoditize historical or static datasets, but real-time, usage-generated behavioral signal that does not exist in public training sets compounds with time. The kill-test still matters because most "data network effect" claims are fake. For the genuine ones, this is the durable position.
 
 ## Related concepts
 
